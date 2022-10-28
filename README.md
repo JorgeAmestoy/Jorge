@@ -26,7 +26,9 @@ Pero esta no es la única referencia a otros grandes artistas que incluye Richar
 - cantantes
   - Prince
   - Kanye West
-Entre canciones de su anterior album cantó:
+  - Britney Spears
+  
+ Entre canciones de su anterior album cantó:
   
 [X] Pienso en tu mirá
 

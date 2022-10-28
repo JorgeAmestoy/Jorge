@@ -27,7 +27,6 @@ Pero esta no es la única referencia a otros grandes artistas que incluye Richar
   - Prince
   - Kanye West
 Entre canciones de su anterior album cantó:
-[X] Malamente
   
 [X] Pienso en tu mirá
 

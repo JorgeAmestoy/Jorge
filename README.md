@@ -11,14 +11,17 @@
 ```
 
 
-Entre los `elogios` y  adjetivos que dirige a la cantante de Despechá destacan “políglota con una voz paralizante” y “virtuosa”. “Produce su música con gran vitalidad y tremendo cuidado, algo que demostró con sudor y lágrimas el lunes, postulando su curiosidad como tenacidad, su meticulosidad como virtuosismo”, destaca Richards.
-
+Entre los `elogios` y  adjetivos que dirige a la cantante de Despechá destacan[1^] 
+[1^]: “políglota con una voz paralizante” y “virtuosa”. 
 Here is a simple footnote[^1].
+[^1]: My reference.
+“Produce su música con gran vitalidad y tremendo cuidado, algo que demostró con sudor y lágrimas el lunes, postulando su curiosidad como tenacidad, su meticulosidad como virtuosismo”, destaca Richards.
+
 
 Al hablar del tema [Hentai](https://www.youtube.com/watch?v=_6YCNd3ONUU) recuerda que Rosalía habló de inspiración Disney, pero que en realidad referencia al “anime japonés de calificación X” e indica que “sus letras son a la vez pornográficas, poéticas, divertidas, ![foto+(![imagen](https://user-images.githubusercontent.com/113548021/198530982-0e3ffdde-1ad6-4a21-91ba-2f3607320557.png)
 
 Antes de  finalizar su crítica, el periodista afirma que la expresión artística de Rosalía :+1: habría hecho las delicias del artista pop Andy Warhol. 
-“En algún lugar de este cosmos incognoscible, Andy Warhol sonrió”, concluye.[
+“En algún lugar de este cosmos incognoscible, Andy Warhol sonrió”, concluye
 
 Pero esta no es la única referencia a otros grandes artistas que incluye Richards. A la hora de compartir su artículo en Twitter compara su actuación con los
 - cantantes
